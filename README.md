@@ -1,2 +1,2 @@
 # Raman Spectrum Viewer
- `python raman.py`
+ ```python raman.py```
