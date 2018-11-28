@@ -1,2 +1,2 @@
 # Raman Spectrum Viewer
-'code'
+ `python raman.py`
